@@ -19,3 +19,6 @@
   What type of attack does this represent. (One Word)
   xmas
   </p>
+  <h2>Steganography</h2>
+  <h3>Hidden Image</h3>
+  
