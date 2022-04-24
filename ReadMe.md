@@ -16,7 +16,7 @@
   ### What Type Of Attack
     ```
     Given a "0adc27b619b40af933fabd4908004500002836e300002506fc4bac1e0042341e8223b3348011bd4b0250000000005029040056380000" what is the raw attack, flag format in 0xXXX. 
-    Flag is 0x029
+    Using hex reader and search we obtained 0x029 
     ```
 
   ### What Type Of Attack Part 2
