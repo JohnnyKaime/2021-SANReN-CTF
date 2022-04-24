@@ -1,5 +1,6 @@
-https://www.sanren.ac.za/sanren-cyber-security-challenge-2019-winners/
-https://www.csc.ac.za/?p=525
+https://www.sanren.ac.za/sanren-cyber-security-challenge-2019-winners/ <br/>
+https://www.csc.ac.za/?p=525 <br/>
+To my team members remember to finish your write up
 
 # SANReN CTF competition in 2021:
   ## Intro:
