@@ -1,0 +1,46 @@
+2018
+*CTF*
+a lot of questions we could of sorted using Burpsuit, examples
+GamingPlatform, use burpsuit to edito the request and response, remove the token then forward
+Powerpoint Sharing and Wastebin add php command in file name or meta data, actual content matter depending on type of question, also how they verifiy the file
+Optimus PRIME many similar questions are online make use of google and github
+CrackMe.exe and other reverse engineering make use of kali linux decompiler
+
+many encription are type AES and XSAW?
+
+*Attack defend*
+nmap -A and nmap -Pn
+
+ufw allow from 10.10.29.15
+ufw allow from 10.10.29.14
+ufw allow from 10.10.29.13
+ufw allow from 10.10.29.16
+ufw allow from 10.10.10.1
+ufw allow from 192.101.16.2
+
+apache, php vulnerabilities
+need to change the website banner to score points
+each protocol also scores point
+ftp, ssh, http, telnet
+
+most people just hacked the website through php, once teams closed the ports of protocols
+host also shadow and create random usernames in each team for potential hacking
+not much teams exploit the flags on the other teams server
+
+*Hashes*
+Use a small word list say 500 password, most common password recently
+run it through a hash, when we get the cracked, analyse it and study the patterns
+like does all the password have a special character, upper case, lower case etc.
+based on that write a regular expression and search the hash
+
+different hashes have different weightings, "decrypt" we should not use brute to approach
+its a low level hash we should be able to analyse it or read up a documentation to find some stuff, basically do research
+
+*Extras:*
+Should change Root password
+Should change user password
+Should know the one username and password by hacking-lab
+BIO password
+Boot from usb
+Grub then into recovery mode
+Single password mode analyse the flag
